@@ -1,0 +1,40 @@
+{
+  "_comment": "PLACEHOLDER DATA - efficacy values (% reduction of limiting compound) are illustrative estimates only. Replace with values from peer-reviewed literature or in-house trials.",
+  "Galactomannan gum residue": [
+    {"treatment": "Enzymatic hydrolysis (mannanase)", "efficacy_pct": 70, "notes": "Reduces viscosity and gum content"},
+    {"treatment": "Hot water extraction", "efficacy_pct": 40, "notes": "Simple, low-cost, moderate efficacy"}
+  ],
+  "Trypsin inhibitors": [
+    {"treatment": "Dry heat / roasting", "efficacy_pct": 85, "notes": "Denatures trypsin inhibitor proteins"},
+    {"treatment": "Autoclaving (steam, 121C)", "efficacy_pct": 92, "notes": "High efficacy, higher energy cost"},
+    {"treatment": "Fermentation (Bacillus subtilis)", "efficacy_pct": 65, "notes": "Also improves flavour and digestibility"}
+  ],
+  "Aflatoxins": [
+    {"treatment": "Ammoniation", "efficacy_pct": 90, "notes": "Industrial-scale detoxification"},
+    {"treatment": "Adsorption (activated clay)", "efficacy_pct": 75, "notes": "Binds aflatoxin, reduces bioavailability"}
+  ],
+  "Tannins": [
+    {"treatment": "Alkaline soaking (NaOH/NaHCO3)", "efficacy_pct": 60, "notes": "Reduces tannin-protein complexation"},
+    {"treatment": "Fermentation", "efficacy_pct": 55, "notes": "Microbial tannase activity"}
+  ],
+  "Amygdalin (cyanogenic glycoside)": [
+    {"treatment": "Soaking + boiling", "efficacy_pct": 80, "notes": "Leaches and hydrolyses cyanogenic glycosides"},
+    {"treatment": "Enzymatic treatment (beta-glucosidase)", "efficacy_pct": 88, "notes": "Targeted hydrolysis"}
+  ],
+  "Phytic acid": [
+    {"treatment": "Phytase enzyme treatment", "efficacy_pct": 75, "notes": "Most effective and widely used industrially"},
+    {"treatment": "Fermentation", "efficacy_pct": 60, "notes": "Endogenous phytase activation"}
+  ],
+  "Lipase-driven rancidity compounds": [
+    {"treatment": "Extrusion stabilization", "efficacy_pct": 90, "notes": "Heat-inactivates lipase rapidly"},
+    {"treatment": "Microwave stabilization", "efficacy_pct": 85, "notes": "Fast, scalable"}
+  ],
+  "Saponins": [
+    {"treatment": "Water extraction / washing", "efficacy_pct": 65, "notes": "Saponins are water-soluble"},
+    {"treatment": "Fermentation", "efficacy_pct": 58, "notes": "Microbial degradation"}
+  ],
+  "Oligosaccharides (raffinose family)": [
+    {"treatment": "Fermentation", "efficacy_pct": 80, "notes": "Microbes consume raffinose-family sugars"},
+    {"treatment": "Enzymatic hydrolysis (alpha-galactosidase)", "efficacy_pct": 85, "notes": "Targeted enzymatic removal"}
+  ]
+}

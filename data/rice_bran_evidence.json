@@ -1,0 +1,119 @@
+[
+  {
+    "id": "RB01",
+    "parameter": "Raw material identity",
+    "evidence": "Rice bran is the outer layer removed during milling; composition varies with variety, milling/polishing and storage.",
+    "why_it_matters": "The AI must not treat every bran batch as identical.",
+    "intervention_or_measurement": "Collect mill, variety if known, date, storage history, supplier specification and lot ID.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10178138/"
+  },
+  {
+    "id": "RB02",
+    "parameter": "Protein",
+    "evidence": "Rice bran contains protein, but values depend on source and analytical basis; use published values only for initial screening.",
+    "why_it_matters": "Total protein is not the same as extractable protein, recovery or protein-isolate purity.",
+    "intervention_or_measurement": "Measure protein in the actual lot; record method and wet/dry basis. Measure recovery separately in trials.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11894254/"
+  },
+  {
+    "id": "RB03",
+    "parameter": "Lipase / lipolysis",
+    "evidence": "Endogenous lipase hydrolyses triacylglycerols into free fatty acids and glycerol; hydrolytic rancidity is a major barrier to rice-bran food use.",
+    "why_it_matters": "Can produce rancid/soapy notes and reduce storage stability.",
+    "intervention_or_measurement": "Test free fatty acids/acid value and storage history; stabilize fresh bran promptly with a validated process.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10462582/"
+  },
+  {
+    "id": "RB04",
+    "parameter": "Lipoxygenase / oxidation",
+    "evidence": "Lipase and lipoxygenase, along with moisture, storage and other factors, contribute to rice-bran rancidity.",
+    "why_it_matters": "Oxidation may create off-flavours even if the protein content looks attractive.",
+    "intervention_or_measurement": "Assess odour/sensory, oxidation indicators such as peroxide value where appropriate, and shelf-life.",
+    "data_status": "given",
+    "source_url": "https://www.spkx.net.cn/EN/Y2024/V45/I13/335"
+  },
+  {
+    "id": "RB05",
+    "parameter": "Phytate / phytic acid",
+    "evidence": "Phytate is discussed in rice-bran nutrition and stabilization literature; amount and relevance vary with material and processing.",
+    "why_it_matters": "Can bind minerals; should not automatically be assumed to be the cause of bitter/beany taste.",
+    "intervention_or_measurement": "If relevant, measure phytate and trial phytase or controlled fermentation; compare before/after and test protein functionality.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11894254/"
+  },
+  {
+    "id": "RB06",
+    "parameter": "Phenolics / ferulic acid",
+    "evidence": "Rice bran contains phenolic compounds, including ferulic acid; compounds may have beneficial bioactivity and can interact with proteins.",
+    "why_it_matters": "May affect colour/astringency or protein interactions, but not all phenolics are undesirable.",
+    "intervention_or_measurement": "Use sensory testing and, if justified, a phenolic assay; trial a mild treatment only if it targets a demonstrated problem.",
+    "data_status": "given",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/36578259/"
+  },
+  {
+    "id": "RB07",
+    "parameter": "Taste defect diagnosis",
+    "evidence": "Rancid, bitter, astringent or beany notes may have different causes; they should not be attributed to one compound without diagnosis.",
+    "why_it_matters": "Treating the wrong cause may waste protein, water, energy and money.",
+    "intervention_or_measurement": "Combine sensory panel with FFA/acid value, oxidation indicators, phytate/phenolic tests where relevant and process history.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10178138/"
+  },
+  {
+    "id": "RB08",
+    "parameter": "Protein functionality",
+    "evidence": "Protein solubility and functionality depend on processing conditions; heat and pH may alter structure and performance.",
+    "why_it_matters": "A high-protein ingredient may not perform in a beverage, emulsion, bakery product or meat analogue.",
+    "intervention_or_measurement": "Test solubility at target pH, water/oil binding, emulsification, foaming or gelation for the intended application.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11894254/"
+  },
+  {
+    "id": "RB09",
+    "parameter": "Moisture / water activity",
+    "evidence": "Moisture and water activity are different measurements; bran stability depends on handling, stabilization, packaging and storage.",
+    "why_it_matters": "Important for microbial stability, enzyme activity and shelf life.",
+    "intervention_or_measurement": "Measure moisture and aw separately; validate target moisture, packaging and shelf life for the product.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10178138/"
+  },
+  {
+    "id": "RB10",
+    "parameter": "Food route A: stabilized bran ingredient",
+    "evidence": "Stabilization is a prerequisite for high-value rice-bran utilization because rapid deterioration restricts food use.",
+    "why_it_matters": "Lower-complexity route than isolate extraction, but may retain flavour, fibre and fat constraints.",
+    "intervention_or_measurement": "Prompt collection > validated stabilization > cooling > milling/sieving > barrier packaging > shelf-life study.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10178138/"
+  },
+  {
+    "id": "RB11",
+    "parameter": "Food route B: protein-rich fraction",
+    "evidence": "Rice-bran protein extraction and functionality are research topics; the best method depends on target purity and functionality.",
+    "why_it_matters": "May raise protein concentration but can add processing cost, water use, protein losses and effluent.",
+    "intervention_or_measurement": "Characterize > stabilize if needed > optional defatting > extraction/fractionation > solid-liquid separation > recovery > drying; set parameters from a specific study.",
+    "data_status": "given",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11894254/"
+  },
+  {
+    "id": "RB12",
+    "parameter": "Safety and contaminants",
+    "evidence": "A nutritious composition does not establish safety. Risk depends on source, storage, process and final category.",
+    "why_it_matters": "Unsafe or untraceable lots must not be converted into food by an AI recommendation.",
+    "intervention_or_measurement": "Supplier traceability; inspect condition; risk-based microbiology, mycotoxin, pesticide and heavy-metal testing according to current applicable rules.",
+    "data_status": "given",
+    "source_url": "https://www.fssai.gov.in/food-testing"
+  },
+  {
+    "id": "RB13",
+    "parameter": "Regulatory status",
+    "evidence": "FSSAI says foods/ingredients lacking standardization under existing regulations may require prior approval under the Non-Specified Food and Food Ingredients Regulations, 2017.",
+    "why_it_matters": "Rice-bran protein concentrate cannot be assumed approved for every use just because rice bran is a familiar food material.",
+    "intervention_or_measurement": "Check exact ingredient, intended use, food category, standards, additives, contaminants, label, packaging and approval status.",
+    "data_status": "given",
+    "source_url": "https://www.fssai.gov.in/standards/non-specified-food"
+  }
+]

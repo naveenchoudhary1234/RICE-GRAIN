@@ -1,0 +1,39 @@
+{
+  "citation": "Tan, B.L.; Norhaizan, M.E.; Chan, L.C. Rice Bran: From Waste to Nutritious Food Ingredients. Nutrients 2023, 15, 2503. https://doi.org/10.3390/nu15112503",
+  "sources": {
+    "tan2023": "Tan, B.L.; Norhaizan, M.E.; Chan, L.C. Rice Bran: From Waste to Nutritious Food Ingredients. Nutrients 2023, 15, 2503. https://doi.org/10.3390/nu15112503",
+    "irri": "IRRI Rice Knowledge Bank, \"Rice bran\", http://www.knowledgebank.irri.org/step-by-step-production/postharvest/rice-by-products/rice-bran (CC BY-NC-SA 3.0)"
+  },
+  "facts": [
+    {"id": "PF01", "section": "Sec 1", "fact": "Rice bran comprises 12-18% oil.", "note": "cites Yadav et al. 2021", "data_status": "published", "source": "tan2023"},
+    {"id": "PF02", "section": "Sec 3", "fact": "Rice bran is nearly 10% of whole grain weight.", "note": "", "data_status": "published", "source": "tan2023"},
+    {"id": "PF03", "section": "Sec 3", "fact": "Bran removed is usually 8-10% of total paddy weight and varies with degree of milling, milling system, pretreatment and rice variety.", "note": "", "data_status": "published", "source": "tan2023"},
+    {"id": "PF04", "section": "Sec 3", "fact": "Oil extraction also generates by-products: rice bran wax, defatted rice bran, filtered cake, rice acid oil.", "note": "(Abstract)", "data_status": "published"},
+    {"id": "PF05", "section": "Sec 4.1", "fact": "Rice bran has a shorter shelf life than white rice because free fatty acids form during storage; about 1 year for bran vs up to a decade for properly stored white rice.", "note": "", "data_status": "published"},
+    {"id": "PF06", "section": "Sec 4.1", "fact": "Lipase enzymes are activated immediately after milling; lipase rancidity limits use of rice bran as food.", "note": "", "data_status": "published"},
+    {"id": "PF07", "section": "Sec 4.1", "fact": "Hydrolysis produces glycerol and free fatty acids, which cause soapy taste and off-flavour, lower pH and raise bran acidity.", "note": "", "data_status": "published"},
+    {"id": "PF08", "section": "Sec 4.1", "fact": "After milling, oil breaks down into free fatty acids at 5-7% of oil weight per day.", "note": "VERIFY in original source (ref 28)", "data_status": "published"},
+    {"id": "PF09", "section": "Sec 4.1", "fact": "Rice bran oil has 2-4% free fatty acids at the time of milling.", "note": "", "data_status": "published"},
+    {"id": "PF10", "section": "Sec 4.1", "fact": "Oil with more than 10% free fatty acids is unfit for human consumption; less than 5% is desirable for rice bran oil production because higher FFA raises refining losses.", "note": "Use as screening thresholds only", "data_status": "published"},
+    {"id": "PF11", "section": "Sec 4.1", "fact": "Lipase activity depends on water activity, time, pH, temperature and moisture.", "note": "", "data_status": "published"},
+    {"id": "PF12", "section": "Sec 4.1", "fact": "Phytate accounts for 85% of total phosphorus in cereal grains and can reduce digestibility and mineral bioavailability.", "note": "Statement is about cereal grains, not specifically rice bran", "data_status": "published"},
+    {"id": "PF13", "section": "Sec 4.1", "fact": "Trypsin inhibitor is an endogenous enzyme in rice bran that forms stable complexes with pancreatic proteases.", "note": "", "data_status": "published"},
+    {"id": "PF14", "section": "Sec 4.2", "fact": "Stabilization methods used or studied: chemical, enzymatic, refrigeration, hydrothermal/parboiling, ohmic heating, infrared, microwave, extrusion, moist and dry heating, hot-air-assisted radio frequency.", "note": "", "data_status": "published"},
+    {"id": "PF15", "section": "Sec 4.2", "fact": "Yu et al. compared 11 stabilization methods; UV irradiation, extrusion and microwave heating were judged suitable for industrial processing.", "note": "", "data_status": "published"},
+    {"id": "PF16", "section": "Sec 4.2", "fact": "Irakli et al. found microwave, infrared and dry heating reduced trypsin inhibitors, saponins, oxalate and phytates, but also significantly reduced total phenolics and vitamin E. Infrared was most effective at prolonging shelf life and inactivating lipase among the three.", "note": "", "data_status": "published"},
+    {"id": "PF17", "section": "Sec 4.2", "fact": "Hot-air-assisted radio frequency heating (110-115 C for 6 min, or 100-105 C for 15 min) decreased polyphenol oxidase and lipase activity.", "note": "Lab study conditions, not plant settings", "data_status": "published"},
+    {"id": "PF18", "section": "Sec 4.2", "fact": "Infrared plus vacuum stabilization improved shelf life to 130 days, compared with 35 days for fresh bran.", "note": "Lab study, not plant settings", "data_status": "published"},
+    {"id": "PF19", "section": "Sec 4.2", "fact": "Parboiling deactivates lipase but destroys antioxidants and changes the nutrient profile versus heat-stabilized bran.", "note": "", "data_status": "published"},
+    {"id": "PF20", "section": "Sec 6.1", "fact": "Rice bran oil smoke point is reported as 232 C.", "note": "cites Lai et al.", "data_status": "published"},
+    {"id": "PF21", "section": "Sec 6.2", "fact": "Full-fat rice bran flour at 10% in bread and 20% in biscuits gave acceptable sensory and physicochemical attributes; adding 0-20% slightly decreased bread loaf volume.", "note": "", "data_status": "published"},
+    {"id": "PF22", "section": "Sec 6.2", "fact": "Replacing wheat flour with 30% defatted rice bran in cakes gave higher acceptance, with more antioxidants, phenolics and fibre.", "note": "", "data_status": "published"},
+    {"id": "PF23", "section": "Sec 6.4", "fact": "In fried chicken nugget batter, 15% or less defatted rice bran reduced oil content while maintaining quality.", "note": "", "data_status": "published"},
+    {"id": "PF24", "section": "Sec 6.4", "fact": "A 10% rice bran wax emulsion extended tomato shelf life to 27 days versus 18 days for the control.", "note": "", "data_status": "published"},
+    {"id": "PF25", "section": "Sec 4.2", "fact": "Yeast fermentation of rice bran increased protein; a study (ref 158) optimised fermentation for protein concentrate extraction.", "note": "LEAD ONLY: read ref 158 (Chinma et al. 2014, Niger. Food J.) before using any number", "data_status": "published", "source": "tan2023"},
+    {"id": "PF26", "section": "IRRI Rice Knowledge Bank", "fact": "100 kg of paddy rice generates approximately 5-10 kg of bran.", "note": "Overlaps with PF02/PF03 (bran share of grain/paddy) — differs by mill, variety and milling degree; measure your lot. Shown as a range alongside PF02/PF03, never merged into one number.", "data_status": "published", "source": "irri"},
+    {"id": "PF27", "section": "IRRI Rice Knowledge Bank", "fact": "Bran composition depends largely on the milling process; bran often contains small fractions of rice hull, which raises ash.", "note": "", "data_status": "published", "source": "irri"},
+    {"id": "PF28", "section": "IRRI Rice Knowledge Bank", "fact": "Modern mills produce coarse bran (first whitening), fine bran (second whitening) and polish (polishing step, includes part of the endosperm, often called meal).", "note": "", "data_status": "published", "source": "irri"},
+    {"id": "PF29", "section": "IRRI Rice Knowledge Bank", "fact": "Rice bran contains 10-23% oil and is a source of vitamins B and E.", "note": "Overlaps with PF01 (oil share) — differs by mill, variety and milling degree; measure your lot. Shown as a range alongside PF01, never merged into one number.", "data_status": "published", "source": "irri"},
+    {"id": "PF30", "section": "IRRI Rice Knowledge Bank", "fact": "In developing countries rice bran is underutilised because of a lack of suitable stabilisation techniques.", "note": "", "data_status": "published", "source": "irri"}
+  ]
+}

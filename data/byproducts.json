@@ -1,0 +1,33 @@
+{
+  "_comment": "PLACEHOLDER DATA - replace with values sourced from real literature / lab assays before production use",
+  "Guar meal": {
+    "protein_pct": 42.0,
+    "limiting_compounds": ["Galactomannan gum residue", "Trypsin inhibitors"],
+    "flavour_issue": "Bitter, beany aftertaste from residual gum and saponins",
+    "price_per_kg": 18.5
+  },
+  "Groundnut cake": {
+    "protein_pct": 45.0,
+    "limiting_compounds": ["Aflatoxins", "Tannins"],
+    "flavour_issue": "Earthy, slightly bitter flavour; aflatoxin risk if poorly stored",
+    "price_per_kg": 22.0
+  },
+  "Almond cake": {
+    "protein_pct": 38.0,
+    "limiting_compounds": ["Amygdalin (cyanogenic glycoside)", "Phytic acid"],
+    "flavour_issue": "Mild bitterness and marzipan-like off-note",
+    "price_per_kg": 35.0
+  },
+  "Rice bran": {
+    "protein_pct": 14.0,
+    "limiting_compounds": ["Phytic acid", "Lipase-driven rancidity compounds"],
+    "flavour_issue": "Rancid/oxidized flavour develops quickly post-milling",
+    "price_per_kg": 12.0
+  },
+  "Pulse residue": {
+    "protein_pct": 24.0,
+    "limiting_compounds": ["Saponins", "Trypsin inhibitors", "Oligosaccharides (raffinose family)"],
+    "flavour_issue": "Beany, bitter, and flatulence-causing oligosaccharides",
+    "price_per_kg": 15.0
+  }
+}
